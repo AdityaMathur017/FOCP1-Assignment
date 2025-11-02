@@ -15,6 +15,6 @@ int main(){
             count++;
         }
     }
-     printf("\ntotal no of students scorect %d is %d",target,count);
+     printf("\ntotal no of students scored %d is %d",target,count);
     return 0;
 }
